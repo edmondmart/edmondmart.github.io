@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.martinchi.com</id>
     <title>楠骑士的泽公主</title>
-    <updated>2021-05-09T02:37:52.309Z</updated>
+    <updated>2021-05-09T02:50:09.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.martinchi.com"/>
     <link rel="self" href="https://blog.martinchi.com/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://blog.martinchi.com/images/avatar.png</logo>
     <icon>https://blog.martinchi.com/favicon.ico</icon>
     <rights>All rights reserved 2021, 楠骑士的泽公主</rights>
+    <entry>
+        <title type="html"><![CDATA[开张营业]]></title>
+        <id>https://blog.martinchi.com/post/kai-zhang-ying-ye/</id>
+        <link href="https://blog.martinchi.com/post/kai-zhang-ying-ye/">
+        </link>
+        <updated>2021-05-09T02:47:33.000Z</updated>
+        <content type="html"><![CDATA[<p>今天是2021年的母亲节，也是高调俱乐部开张的日子。</p>
+<figure data-type="image" tabindex="1"><img src="https://blog.martinchi.com/post-images/1620528584414.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://blog.martinchi.com/post/hello-gridea/</id>
