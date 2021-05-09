@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://edmondmart.github.io</id>
+    <id>https://blog.martinchi.com</id>
     <title>楠公主的泽骑士</title>
-    <updated>2021-05-09T03:37:43.014Z</updated>
+    <updated>2021-05-09T03:45:08.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://edmondmart.github.io"/>
-    <link rel="self" href="https://edmondmart.github.io/atom.xml"/>
+    <link rel="alternate" href="https://blog.martinchi.com"/>
+    <link rel="self" href="https://blog.martinchi.com/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://edmondmart.github.io/images/avatar.png</logo>
-    <icon>https://edmondmart.github.io/favicon.ico</icon>
+    <logo>https://blog.martinchi.com/images/avatar.png</logo>
+    <icon>https://blog.martinchi.com/favicon.ico</icon>
     <rights>All rights reserved 2021, 楠公主的泽骑士</rights>
     <entry>
         <title type="html"><![CDATA[开张营业]]></title>
-        <id>https://edmondmart.github.io/post/kai-zhang-ying-ye/</id>
-        <link href="https://edmondmart.github.io/post/kai-zhang-ying-ye/">
+        <id>https://blog.martinchi.com/post/kai-zhang-ying-ye/</id>
+        <link href="https://blog.martinchi.com/post/kai-zhang-ying-ye/">
         </link>
         <updated>2021-05-09T02:47:33.000Z</updated>
         <content type="html"><![CDATA[<p>今天是2021年的母亲节，也是高调俱乐部开张的日子。</p>
-<figure data-type="image" tabindex="1"><img src="https://edmondmart.github.io/post-images/1620528584414.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://blog.martinchi.com/post-images/1620528584414.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://edmondmart.github.io/post/hello-gridea/</id>
-        <link href="https://edmondmart.github.io/post/hello-gridea/">
+        <id>https://blog.martinchi.com/post/hello-gridea/</id>
+        <link href="https://blog.martinchi.com/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
